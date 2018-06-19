@@ -1,0 +1,9 @@
+{
+    "name": "zumpay/translation",
+    "description": ".po files for zumpay",
+    "type": "library",
+    "authors": [
+        {"email":"clarifying@gmail.com","name": "Serhii Borodai"}
+    ],
+    "license": "MIT"
+}
